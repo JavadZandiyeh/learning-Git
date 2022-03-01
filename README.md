@@ -50,7 +50,7 @@ to be sure that git has been installed you can use `git --version`
 
 **git status**
 - **`git status`**
-  > usage : show status of files![alt text](https://github.com/JavadZandiyeh/LearningGit/blob/master/pict.png?raw=true)
+  > usage : show status of files!<br/>[alt text](https://github.com/JavadZandiyeh/LearningGit/blob/master/pict.png?raw=true)
   
 **git log**
 - **`git log`**
