@@ -1,4 +1,4 @@
-# Introductoin to Git
+# Introduction to Git
 - [Installing git](#installing-git)
 - [Git useful commands](#git-useful-commands)
 - [More about git](#more-about-git)
